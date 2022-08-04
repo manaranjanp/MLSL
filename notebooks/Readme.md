@@ -10,6 +10,11 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Prediction_System_ISB_1_0.ipynb)
 
+### Regression - ML Pipeline, KFOLD, Lasso, Ridge
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/https://github.com/manaranjanp/MLSL/blob/main/notebooks/Used_Car_Price_Prediction_Advanced_ISB_1_0.ipynb)
+
+
 
 
 

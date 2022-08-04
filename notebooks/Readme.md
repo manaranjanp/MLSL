@@ -6,6 +6,10 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Used_Car_Price_Prediction_ISB_2_0.ipynb)
 
+### Predicting Sale Price (Inference System)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Prediction_System_ISB_1_0.ipynb)
+
 
 
 

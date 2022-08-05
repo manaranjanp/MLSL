@@ -15,6 +15,14 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Used_Car_Price_Prediction_Advanced_ISB_1_0.ipynb)
 
 
+### Classification - HR Attrition Analysis: Logistic Regress, KNN
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Classification_HR_Attrition_Analysis.ipynb)
+
+
+
+
+
 
 
 

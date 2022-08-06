@@ -20,9 +20,9 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Classification_HR_Attrition_Analysis.ipynb)
 
 
+### Classification Advanced - HR Attrition Analysis: ROC AUC, Decision Tree
 
-
-
+https://github.com/manaranjanp/MLSL/blob/main/notebooks/HR_Analytics_Classification_Advanced.ipynb
 
 
 

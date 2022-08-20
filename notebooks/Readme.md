@@ -24,5 +24,6 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/HR_Analytics_Classification_Advanced.ipynb)
 
+### Eureka Forbes: Data Imbalance Problem
 
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLSL/blob/main/notebooks/Eureka_Forbes_Lead_Generation_Decision_Tree.ipynb)
